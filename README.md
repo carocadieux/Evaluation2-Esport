@@ -16,4 +16,5 @@ Aussi, nous aurons les autres pages suivantes :
     • Une page qui affiche les détails d’une équipe
     • Une page qui permet d’ajouter une nouvelle équipe
 
-    ![eSport](https://github.com/user-attachments/assets/b198c0e9-99cf-4123-8c95-bb2f9cdac5f2)
+   
+![eSport](https://github.com/user-attachments/assets/c6dd7ade-f656-4647-925f-56266717d608)
